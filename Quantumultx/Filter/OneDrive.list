@@ -1,0 +1,4 @@
+# > OneDrive
+USER-AGENT,OneDrive*,OneDrive
+USER-AGENT,OneDriveiOSApp*,OneDrive
+OMAIN-SUFFIX,cuedurs-my.sharepoint.com,OneDrive
