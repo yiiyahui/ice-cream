@@ -5,5 +5,6 @@ DOMAIN-SUFFIX,api.trakt.tv,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
 DOMAIN-SUFFIX,movie-api.infuse.im,OneDrive
 DOMAIN-SUFFIX,themoviedb.org,OneDrive
+DOMAIN-SUFFIX,image.tmdb.org,OneDrive
 DOMAIN-SUFFIX,login.microsoftonline.com,OneDrive
 DOMAIN-SUFFIX,cuedurs-my.sharepoint.com,OneDrive
