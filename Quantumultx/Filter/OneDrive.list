@@ -2,6 +2,7 @@
 USER-AGENT,OneDrive*,OneDrive
 USER-AGENT,OneDriveiOSApp*,OneDrive
 DOMAIN-SUFFIX,api.trakt.tv,OneDrive
+DOMAIN-SUFFIX,trakt.tv,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
 DOMAIN-SUFFIX,movie-api.infuse.im,OneDrive
 DOMAIN-SUFFIX,themoviedb.org,OneDrive
@@ -10,5 +11,6 @@ DOMAIN-SUFFIX,login.microsoftonline.com,OneDrive
 DOMAIN-SUFFIX,cuedurs-my.sharepoint.com,OneDrive
 DOMAIN-SUFFIX,m.stripe.com,OneDrive
 DOMAIN-SUFFIX,m.stripe.network,OneDrive
+DOMAIN-SUFFIX,js.stripe.com,OneDrive
 DOMAIN-SUFFIX,i2.wp.com,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
