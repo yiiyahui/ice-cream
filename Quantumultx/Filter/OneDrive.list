@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,themoviedb.org,OneDrive
 DOMAIN-SUFFIX,image.tmdb.org,OneDrive
 DOMAIN-SUFFIX,login.microsoftonline.com,OneDrive
 DOMAIN-SUFFIX,cuedurs-my.sharepoint.com,OneDrive
+DOMAIN-SUFFIX,m.stripe.com
+DOMAIN-SUFFIX,m.stripe.network
+DOMAIN-SUFFIX,i2.wp.com
+DOMAIN-SUFFIX,secure.gravatar.com
