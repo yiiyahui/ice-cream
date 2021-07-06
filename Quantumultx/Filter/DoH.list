@@ -1,7 +1,0 @@
-DOMAIN-SUFFIX,https://dns.google/dns-query ,Google DoH
-DOMAIN-SUFFIX,https://dns.google/resolve ,Google DoH
-DOMAIN-SUFFIX,https://[2001:4860:4860::64]/dns-query ,Google DoH
-DOMAIN-SUFFIX,https://[2001:4860:4860::6464]/dns-query ,Google DoH
-DOMAIN-SUFFIX,https://cloudflare-dns.com/dns-query ,Cloudflare
-DOMAIN-SUFFIX,https://1.1.1.1/dns-query ,Cloudflare
-DOMAIN-SUFFIX,https://1.0.0.1/dns-query ,Cloudflare
