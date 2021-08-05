@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,movie-api.infuse.im,OneDrive
 DOMAIN-SUFFIX,themoviedb.org,OneDrive
 DOMAIN-SUFFIX,image.tmdb.org,OneDrive
 DOMAIN-SUFFIX,login.microsoftonline.com,OneDrive
+DOMAIN-SUFFIX,graph.microsoft.com,OneDrive
 DOMAIN-SUFFIX,cuedurs-my.sharepoint.com,OneDrive
 DOMAIN-SUFFIX,m.stripe.com,OneDrive
 DOMAIN-SUFFIX,m.stripe.network,OneDrive
