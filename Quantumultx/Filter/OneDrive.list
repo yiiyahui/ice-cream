@@ -22,6 +22,6 @@ DOMAIN-SUFFIX,sgminorshort.wechat.com,WeChat
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net,WeChat
 DOMAIN-SUFFIX,dl.wechat.com,WeChat
 DOMAIN-SUFFIX,sglong.wechat.com,WeChat
-IP-CIDR,101.32.104.4,DIRECT
-IP-CIDR,101.32.118.25,DIRECT
+IP-CIDR,101.32.104.4/22,DIRECT
+
 
