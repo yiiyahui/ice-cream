@@ -16,8 +16,11 @@ DOMAIN-SUFFIX,js.stripe.com,OneDrive
 DOMAIN-SUFFIX,i2.wp.com,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
 DOMAIN-SUFFIX,x99m-my.sharepoint.com,OneDrive
+# > WeChat
 DOMAIN-SUFFIX,sgshort.wechat.com,WeChat
 DOMAIN-SUFFIX,sgminorshort.wechat.com,WeChat
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net,WeChat
 DOMAIN-SUFFIX,dl.wechat.com,WeChat
 DOMAIN-SUFFIX,sglong.wechat.com,WeChat
+IP-CIDR,101.32.104.4,WeChat
+
