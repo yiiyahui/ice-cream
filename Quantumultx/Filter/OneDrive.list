@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,x99m-my.sharepoint.com,OneDrive
 # > FUck WeChat
 DOMAIN-SUFFIX,sgshort.wechat.com,WeChat
 DOMAIN-SUFFIX,sgminorshort.wechat.com,WeChat
-DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net,WeChat
 DOMAIN-SUFFIX,dl.wechat.com,WeChat
 DOMAIN-SUFFIX,sglong.wechat.com,WeChat
 IP-CIDR,101.32.104.4/30,WeChat
