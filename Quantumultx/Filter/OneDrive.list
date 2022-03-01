@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,sgshort.wechat.com,WeChat
 DOMAIN-SUFFIX,sgminorshort.wechat.com,WeChat
 DOMAIN-SUFFIX,dl.wechat.com,WeChat
 DOMAIN-SUFFIX,sglong.wechat.com,WeChat
+DOMAIN,tencentmap.wechat.com,WeChat
 DOMAIN-SUFFIX,dns.weixin.qq.com,WeChat
 IP-CIDR,101.32.104.4/30,WeChat
 IP-CIDR,101.32.118.24/29,WeChat
@@ -28,3 +29,6 @@ IP-CIDR,101.32.112.0/20,WeChat
 IP-CIDR,101.32.116.0/22,WeChat
 IP-CIDR,101.32.118.0/23,WeChat
 IP-CIDR,101.32.118.16/28,WeChat
+IP-CIDR,129.226.3.47/32,WeChat
+IP-CIDR,129.226.107.244/32,WeChat
+
