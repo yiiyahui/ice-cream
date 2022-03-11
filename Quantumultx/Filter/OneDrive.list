@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,js.stripe.com,OneDrive
 DOMAIN-SUFFIX,i2.wp.com,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
 DOMAIN-SUFFIX,x99m-my.sharepoint.com,OneDrive
-# > FUck WeChat
+# > Fuck WeChat
 DOMAIN-SUFFIX,sgshort.wechat.com,WeChat
 DOMAIN-SUFFIX,sgminorshort.wechat.com,WeChat
 DOMAIN-SUFFIX,dl.wechat.com,WeChat
@@ -31,4 +31,10 @@ IP-CIDR,101.32.118.0/23,WeChat
 IP-CIDR,101.32.118.16/28,WeChat
 IP-CIDR,129.226.3.47/32,WeChat
 IP-CIDR,129.226.107.244/32,WeChat
-
+# > Emby
+DOMAIN-SUFFIX,pub1.emby.wtf,Emby
+DOMAIN-SUFFIX,pub1cm1.emby.wtf,Emby
+DOMAIN-SUFFIX,pub2.emby.wtf,Emby
+DOMAIN-SUFFIX,pub2cm1.emby.wtf,Emby
+DOMAIN-SUFFIX,pub3.emby.wtf,Emby
+DOMAIN-SUFFIX,pub3cm1.emby.wtf,Emby
