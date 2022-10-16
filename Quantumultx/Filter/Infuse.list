@@ -1,20 +1,20 @@
 # > OneDrive
-USER-AGENT,OneDrive*,OneDrive
-USER-AGENT,OneDriveiOSApp*,OneDrive
+DOMAIN-SUFFIX,1drv.com,OneDrive
+DOMAIN-SUFFIX,onedrive.com,OneDrive
+DOMAIN-SUFFIX,storage.live.com,OneDrive
+DOMAIN,oneclient.sfx.ms,OneDrive
 DOMAIN-SUFFIX,api.trakt.tv,OneDrive
 DOMAIN-SUFFIX,trakt.tv,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
 DOMAIN-SUFFIX,movie-api.infuse.im,OneDrive
 DOMAIN-SUFFIX,themoviedb.org,OneDrive
 DOMAIN-SUFFIX,image.tmdb.org,OneDrive
-DOMAIN-SUFFIX,login.microsoftonline.com,OneDrive
-DOMAIN-SUFFIX,graph.microsoft.com,OneDrive
 DOMAIN-SUFFIX,m.stripe.com,OneDrive
 DOMAIN-SUFFIX,m.stripe.network,OneDrive
 DOMAIN-SUFFIX,js.stripe.com,OneDrive
 DOMAIN-SUFFIX,i2.wp.com,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
-DOMAIN-SUFFIX,x99m-my.sharepoint.com,OneDrive
+
 # > Fuck WeChat
 DOMAIN-SUFFIX,qlogo.cn,Wechat
 DOMAIN-SUFFIX,qpic.cn,Wechat
