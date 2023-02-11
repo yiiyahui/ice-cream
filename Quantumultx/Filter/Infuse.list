@@ -16,8 +16,6 @@ DOMAIN-SUFFIX,i2.wp.com,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
 
 # > Fuck WeChat
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
 DOMAIN-SUFFIX,qlogo.cn,Wechat
 DOMAIN-SUFFIX,qpic.cn,Wechat
 DOMAIN-SUFFIX,servicewechat.com,Wechat
