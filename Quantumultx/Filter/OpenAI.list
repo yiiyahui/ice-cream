@@ -1,0 +1,13 @@
+# > OpenAI
+DOMAIN-SUFFIX,vimeocdn.com,Openai
+DOMAIN-SUFFIX,hcaptcha.com,Openai
+DOMAIN-SUFFIX,akamaized.net,Openai
+DOMAIN-SUFFIX,googleapis.com,Openai
+DOMAIN-SUFFIX,gstatic.com,Openai
+DOMAIN-SUFFIX,openai.com,Openai
+DOMAIN-SUFFIX,vimeo.com,Openai
+DOMAIN-SUFFIX,googletagmanager.com,Openai
+DOMAIN-SUFFIX,f7tk.com,Openai
+DOMAIN-SUFFIX,doubleclick.net,Openai
+DOMAIN-SUFFIX,google-analytics.com,Openai
+DOMAIN-SUFFIX,ai.com,Openai
