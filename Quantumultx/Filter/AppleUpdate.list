@@ -1,26 +1,26 @@
 # Software Update
 # > macOS updates
-host-suffix,configuration.apple.com // Rosetta 2 updates
-host-suffix,gnf-mdn.apple.com
-host-suffix,gnf-mr.apple.com
-host-suffix,gs.apple.com
-host-suffix,ig.apple.com
-host-suffix,skl.apple.com
-host-suffix,swcdn.apple.com
-host-suffix,swdist.apple.com
-host-suffix,swdownload.apple.com
-host-suffix,swpost.apple.com
-host-suffix,swscan.apple.com
+host-suffix,configuration.apple.com,Apple
+host-suffix,gnf-mdn.apple.com,Apple
+host-suffix,gnf-mr.apple.com,Apple
+host-suffix,gs.apple.com,Apple
+host-suffix,ig.apple.com,Apple
+host-suffix,skl.apple.com,Apple
+host-suffix,swcdn.apple.com,Apple
+host-suffix,swdist.apple.com,Apple
+host-suffix,swdownload.apple.com,Apple
+host-suffix,swpost.apple.com,Apple
+host-suffix,swscan.apple.com,Apple
 # > macOS Recovery
-host-suffix,oscdn.apple.com
-host-suffix,osrecovery.apple.com
+host-suffix,oscdn.apple.com,Apple
+host-suffix,osrecovery.apple.com,Apple
 # > iOS, iPadOS, and watchOS updates
-host-suffix,appldnld.apple.com
-host-suffix,ns.itunes.apple.com
+host-suffix,appldnld.apple.com,Apple
+host-suffix,ns.itunes.apple.com,Apple
 # > iOS, iPadOS, tvOS, watchOS, and macOS updates
-host-suffix,gg.apple.com
-host-suffix,gdmf.apple.com // Software update catalog
-host-suffix,mesu.apple.com // Hosts software update catalogs
-host-suffix,updates.cdn-apple.com // Software update downloads
-host-suffix,updates-http.cdn-apple.com // Software update downloads
-host-suffix,xp.apple.com
+host-suffix,gg.apple.com,Apple
+host-suffix,gdmf.apple.com,Apple
+host-suffix,mesu.apple.com,Apple
+host-suffix,updates.cdn-apple.com,Apple
+host-suffix,updates-http.cdn-apple.com,Apple
+host-suffix,xp.apple.com,Apple
