@@ -1,26 +1,26 @@
 # Software Update
 # > macOS updates
-host-suffix,configuration.apple.com,Apple
-host-suffix,gnf-mdn.apple.com,Apple
-host-suffix,gnf-mr.apple.com,Apple
-host-suffix,gs.apple.com,Apple
-host-suffix,ig.apple.com,Apple
-host-suffix,skl.apple.com,Apple
-host-suffix,swcdn.apple.com,Apple
-host-suffix,swdist.apple.com,Apple
-host-suffix,swdownload.apple.com,Apple
-host-suffix,swpost.apple.com,Apple
-host-suffix,swscan.apple.com,Apple
+DOMAIN,configuration.apple.com,Apple
+DOMAIN,gnf-mdn.apple.com,Apple
+DOMAIN,gnf-mr.apple.com,Apple
+DOMAIN,gs.apple.com,Apple
+DOMAIN,ig.apple.com,Apple
+DOMAIN,skl.apple.com,Apple
+DOMAIN,swcdn.apple.com,Apple
+DOMAIN,swdist.apple.com,Apple
+DOMAIN,swdownload.apple.com,Apple
+DOMAIN,swpost.apple.com,Apple
+DOMAIN,swscan.apple.com,Apple
 # > macOS Recovery
-host-suffix,oscdn.apple.com,Apple
-host-suffix,osrecovery.apple.com,Apple
+DOMAIN,oscdn.apple.com,Apple
+DOMAIN,osrecovery.apple.com,Apple
 # > iOS, iPadOS, and watchOS updates
-host-suffix,appldnld.apple.com,Apple
-host-suffix,ns.itunes.apple.com,Apple
+DOMAIN,appldnld.apple.com,Apple
+DOMAIN,ns.itunes.apple.com,Apple
 # > iOS, iPadOS, tvOS, watchOS, and macOS updates
-host-suffix,gg.apple.com,Apple
-host-suffix,gdmf.apple.com,Apple
-host-suffix,mesu.apple.com,Apple
-host-suffix,updates.cdn-apple.com,Apple
-host-suffix,updates-http.cdn-apple.com,Apple
-host-suffix,xp.apple.com,Apple
+DOMAIN,gg.apple.com,Apple
+DOMAIN,gdmf.apple.com,Apple
+DOMAIN,mesu.apple.com,Apple
+DOMAIN,updates.cdn-apple.com,Apple
+DOMAIN,pdates-http.cdn-apple.com,Apple
+DOMAIN,xp.apple.com,Apple
