@@ -1,26 +1,26 @@
 # Software Update
 # > macOS updates
-DOMAIN,configuration.apple.com // Rosetta 2 updates
-DOMAIN,gnf-mdn.apple.com
-DOMAIN,gnf-mr.apple.com
-DOMAIN,gs.apple.com
-DOMAIN,ig.apple.com
-DOMAIN,skl.apple.com
-DOMAIN,swcdn.apple.com
-DOMAIN,swdist.apple.com
-DOMAIN,swdownload.apple.com
-DOMAIN,swpost.apple.com
-DOMAIN,swscan.apple.com
+host-suffix,configuration.apple.com // Rosetta 2 updates
+host-suffix,gnf-mdn.apple.com
+host-suffix,gnf-mr.apple.com
+host-suffix,gs.apple.com
+host-suffix,ig.apple.com
+host-suffix,skl.apple.com
+host-suffix,swcdn.apple.com
+host-suffix,swdist.apple.com
+host-suffix,swdownload.apple.com
+host-suffix,swpost.apple.com
+host-suffix,swscan.apple.com
 # > macOS Recovery
-DOMAIN,oscdn.apple.com
-DOMAIN,osrecovery.apple.com
+host-suffix,oscdn.apple.com
+host-suffix,osrecovery.apple.com
 # > iOS, iPadOS, and watchOS updates
-DOMAIN,appldnld.apple.com
-DOMAIN,ns.itunes.apple.com
+host-suffix,appldnld.apple.com
+host-suffix,ns.itunes.apple.com
 # > iOS, iPadOS, tvOS, watchOS, and macOS updates
-DOMAIN,gg.apple.com
-DOMAIN,gdmf.apple.com // Software update catalog
-DOMAIN,mesu.apple.com // Hosts software update catalogs
-DOMAIN,updates.cdn-apple.com // Software update downloads
-DOMAIN,updates-http.cdn-apple.com // Software update downloads
-DOMAIN,xp.apple.com
+host-suffix,gg.apple.com
+host-suffix,gdmf.apple.com // Software update catalog
+host-suffix,mesu.apple.com // Hosts software update catalogs
+host-suffix,updates.cdn-apple.com // Software update downloads
+host-suffix,updates-http.cdn-apple.com // Software update downloads
+host-suffix,xp.apple.com
