@@ -16,11 +16,11 @@ DOMAIN-SUFFIX,i2.wp.com,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
 
 # > Fuck WeChat
-DOMAIN-SUFFIX,dl.wechat.com
-DOMAIN-SUFFIX,sglong.wechat.com
-DOMAIN-SUFFIX,sgminorshort.wechat.com
-DOMAIN-SUFFIX,sgshort.wechat.com
-DOMAIN-SUFFIX,tencentmap.wechat.com
+DOMAIN-SUFFIX,dl.wechat.com,no-resolve
+DOMAIN-SUFFIX,sglong.wechat.com,no-resolve
+DOMAIN-SUFFIX,sgminorshort.wechat.com,no-resolve
+DOMAIN-SUFFIX,sgshort.wechat.com,no-resolve
+DOMAIN-SUFFIX,tencentmap.wechat.com,no-resolve
 IP-CIDR,101.32.104.4/32,no-resolve
 IP-CIDR,101.32.104.41/32,no-resolve
 IP-CIDR,101.32.104.56/32,no-resolve
