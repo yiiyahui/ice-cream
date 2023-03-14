@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,i2.wp.com,OneDrive
 DOMAIN-SUFFIX,secure.gravatar.com,OneDrive
 
 # > Fuck WeChat
-DOMAIN-SUFFIX,dl.wechat.com,no-resolve
+DOMAIN,dl.wechat.com,no-resolve
 DOMAIN-SUFFIX,sglong.wechat.com,no-resolve
 DOMAIN-SUFFIX,sgminorshort.wechat.com,no-resolve
 DOMAIN-SUFFIX,sgshort.wechat.com,no-resolve
