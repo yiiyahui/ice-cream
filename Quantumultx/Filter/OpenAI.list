@@ -3,7 +3,7 @@ DOMAIN-SUFFIX, ai.com,OpenAI
 DOMAIN-SUFFIX, openai.com,OpenAI
 DOMAIN-SUFFIX, vimeo.com,OpenAI
 DOMAIN-SUFFIX, vimeocdn.com,OpenAI
-OMAIN-SUFFIX, hcaptcha.com,OpenAI
+DOMAIN-SUFFIX, hcaptcha.com,OpenAI
 DOMAIN-SUFFIX, akamaized.com,OpenAI
 DOMAIN, cdn.auth0.com,OpenAI
 DOMAIN, openaiapi-site.azureedge.net,OpenAI
