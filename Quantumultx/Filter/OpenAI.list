@@ -7,5 +7,5 @@ OMAIN-SUFFIX, hcaptcha.com,OpenAI
 DOMAIN-SUFFIX, akamaized.com,OpenAI
 DOMAIN, cdn.auth0.com,OpenAI
 DOMAIN, openaiapi-site.azureedge.net,OpenAI
-DOMAIN-KEYWORD,openaiapi,OpenAI
-DOMAIN-KEYWORD,openaipublic,OpenAI
+HOST-KEYWORD,openaiapi,OpenAI
+HOST-KEYWORD,openaipublic,OpenAI
