@@ -6,6 +6,7 @@
   - DOMAIN-SUFFIX,vimeocdn.com
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,akamaized.com
+  - DOMAIN-SUFFIX,cloudv2a.com
   - DOMAIN,cdn.auth0.com
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN-KEYWORD,openaiapi
