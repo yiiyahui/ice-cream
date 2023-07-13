@@ -7,3 +7,5 @@
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-KEYWORD,openai
+    # Bard
+  - DOMAIN,bard.google.com
